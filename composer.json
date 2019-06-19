@@ -1,9 +1,10 @@
 {
   "autoload": {
     "psr-4": {
-      "Otus\\": "src/"
+      "semanuilko\\composer_packagist_test\\": "src/"
     }
   },
   "name": "pavlov/otus",
-  "require": {}
+  "require": {},
+  "minimum-stability": "stable"
 }

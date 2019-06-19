@@ -1,5 +1,5 @@
 <?php
-namespace Otus\Lessons\Lesson4;
+namespace semanuilko\composer_packagist_test;
 class Hello
 {
     public function sayHello(): string
