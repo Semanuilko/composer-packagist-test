@@ -2,7 +2,7 @@
 namespace semanuilko\composer_packagist_test;
 class Hello
 {
-    public function sayHello(): string
+    public function sayHello()
     {
         return "Hello";
     }
