@@ -1,5 +1,5 @@
 <?php
-namespace semanuilko\composer_packagist_test;
+namespace Semanuilko\ComposerPackagistTest;
 class Hello
 {
     public function sayHello()
